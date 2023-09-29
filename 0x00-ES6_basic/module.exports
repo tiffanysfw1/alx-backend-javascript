@@ -1,0 +1,10 @@
+bel/preset-env',
+      {
+        targets: {
+          node: 'current',
+        },
+      },
+    ],
+  ],
+};
+
